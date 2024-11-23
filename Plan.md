@@ -48,8 +48,8 @@
   4. Explore the `REPL` (interactive mode): Try simple commands like `1 + 1`,
      `"Hello".upper()`.
 
-- Activity: Customize the “Hello, World!” program to greet with his name
-  or favorite phrase.
+- [Activity](lessons/01.py): Customize the “Hello, World!” program to
+  greet with his name or favorite phrase.
 
 ## Lesson 2: Variables and Basic Data Types
 
@@ -61,8 +61,8 @@
   3. Simple input/output: `input()` and `print()`.
   4. Basic math operations (`+`, `-`, `*`, `/`, `%`).
 
-- Activity: Write a program that calculates the number of days until his
-  next birthday.
+- [Activity](lessons/02.py): Write a program that calculates the number
+  of days until his next birthday.
 
 ## Lesson 3: Conditional Statements
 
@@ -73,7 +73,8 @@
   2. Comparison operators (`>`, `<`, `==`, `!=`, etc.).
   3. Logical operators (`and`, `or`, `not`).
 
-- Activity: Write a program that checks if a number is odd or even.
+- [Activity](lessons/03.py): Write a program that checks if a number is
+  odd or even.
 
 ## Lesson 4: Loops and Simple Games
 
@@ -84,8 +85,8 @@
   2. while loops and their conditions.
   3. Breaking out of loops.
 
-- Activity: Create a simple guessing game where the computer picks a
-  random number, and the user has to guess it.
+- [Activity](lessons/04.py): Create a simple guessing game where the
+  computer picks a random number, and the user has to guess it.
 
 ## Lesson 5: Functions
 
@@ -94,8 +95,8 @@
   1. Defining functions with def.
   2. Function arguments and return values.
   3. Scope of variables (local vs. global).
-- Activity: Write a function that converts temperatures between Celsius
-  and Fahrenheit.
+- [Activity](lessons/05.py): Write a function that converts temperatures
+  between Celsius and Fahrenheit.
 
 ## Lesson 6: Lists and Loops
 
@@ -104,8 +105,8 @@
   1. Creating and modifying lists (append, remove, slicing).
   2. Iterating over lists with for loops.
   3. Common list operations (len, in, index).
-- Activity: Create a program that takes a list of numbers and calculates
-  the average.
+- [Activity](lessons/06.py): Create a program that takes a list of
+  numbers and calculates the average.
 
 ## Lesson 7: Dictionaries
 
@@ -115,8 +116,8 @@
   1. Creating dictionaries.
   2. Accessing, adding, and updating values.
   3. Iterating over dictionaries (keys, values, items).
-- Activity: Write a program that tracks favorite foods for different
-  people using a dictionary.
+- [Activity](lessons/07.py): Write a program that tracks favorite foods
+  for different people using a dictionary.
 
 ## Lesson 8: Strings and String Manipulation
 
@@ -125,8 +126,8 @@
   1. String methods (split, join, replace, strip).
   2. Formatting strings (f-strings, .format).
   3. Escape sequences (e.g., \n, \t).
-- Activity: Write a program that formats and prints a “mad lib” story
-  based on user input.
+- [Activity](lessons/08.py): Write a program that formats and prints a
+  “mad lib” story based on user input.
 
 ## Lesson 9: File Handling
 
@@ -135,7 +136,8 @@
 1. Opening files in different modes (r, w, a).
 2. Reading file contents (read, readlines).
 3. Writing to files.
-- Activity: Create a program that saves user input (e.g., a diary entry) to a text file and reads it back.
+- [Activity](lessons/09.py): Create a program that saves user input
+  (e.g., a diary entry) to a text file and reads it back.
 
 ## Lesson 10: Error Handling
 
@@ -144,8 +146,8 @@
   1. Using try, except, and finally.
   2. Handling specific exceptions (e.g., ValueError).
   3. Raising exceptions with raise.
-- Activity: Create a program that asks for numbers, handles invalid
-  input gracefully, and calculates their sum.
+- [Activity](lessons/10.py): Create a program that asks for numbers,
+  handles invalid input gracefully, and calculates their sum.
 
 ## Lesson 11: Classes and Objects (Intro to OOP)
 
@@ -154,9 +156,9 @@
   1. Defining a class and creating objects.
   2. Class attributes and methods.
   3. __init__ method for initialization.
-- Activity: Write a class for a “Pet” with attributes like name and
-  species, and a method to display a greeting (e.g., “Woof! My name is
-  Max!”).
+- [Activity](lessons/11.py): Write a class for a “Pet” with attributes
+  like name and species, and a method to display a greeting (e.g.,
+  “Woof! My name is Max!”).
 
 ## Lesson 12: Modules and Importing
 
@@ -165,13 +167,13 @@
   1. Importing built-in modules (e.g., math, random).
   2. Writing your own modules.
   3. Understanding import, from ... import, and as.
-- Activity: Use the `random` module to create a simple dice-rolling
-  simulation.
+- [Activity](lessons/12.py): Use the `random` module to create a simple
+  dice-rolling simulation.
 
 ## Lesson 13: Recap and Mini-Project
 
 - Objective: Consolidate knowledge and create a small, complete program.
-- Activity:
+- [Activity](lessons/13.py):
   - Write a text-based adventure game using everything learned
     (functions, loops, conditionals, dictionaries, etc.).
   - Example: A simple “choose your own adventure” story where decisions
