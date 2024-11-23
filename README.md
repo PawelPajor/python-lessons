@@ -1,9 +1,8 @@
 # python-lessons
 
-Place to teach Robert basics of Python
+Teach Robert basics of Python
 
-- [python-lessons](#python-lessons)
-  - [Using Git Features for Milestones:](#using-git-features-for-milestones)
+[Plan](Plan.md)
 
 ## Using Git Features for Milestones:
 
